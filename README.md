@@ -17,3 +17,9 @@ Steps:
 To set up your profile on git bash:
 git config --global user.name "Firstname Lastname"
 git config --global user.email "your_email@youremail.com"
+
+Next: Download the repository
+git clone https://github.com/ErkCurley/MISAgitWorkshop.git
+git init
+
+
