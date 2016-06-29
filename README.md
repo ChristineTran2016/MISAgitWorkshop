@@ -3,14 +3,14 @@ Steps:
 1) Go to https://git-scm.com/downloads
 2) Choose a download for your system
 3) Run the installer
-# Insert Image here   ![alt tag](https://github.com/ErkCurley/MISAgitWorkshop/tree/master/gitpics/git.png)
+# Insert Image here   ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/Git.PNG)
 https://github.com/ErkCurley/MISAgitWorkshop/master/gitpics/git1.png
 4) Choose either the top or middle option 
-# Insert Image Here  ![alt tag](https://github.com/ErkCurley/MISAgitWorkshop/tree/master/gitpics/git2.png)
+# Insert Image Here  ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/Git2.PNG)
 5) Choose top option
-# Insert Image Here ![alt tag](https://github.com/ErkCurley/MISAgitWorkshop/tree/master/gitpics/git3.png)
+# Insert Image Here ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/Git3.PNG)
 6) Choose top option
-# Insert Image Here  ![alt tag](https://github.com/ErkCurley/MISAgitWorkshop/tree/master/gitpics/git4.png)
+# Insert Image Here  ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/Git4.PNG)
 7) Leave the boxes checked
 
 
