@@ -11,3 +11,9 @@ Steps:
 6) Choose top option
 # Insert Image Here
 7) Leave the boxes checked
+
+
+
+To set up your profile on git bash:
+git config --global user.name "Firstname Lastname"
+git config --global user.email "your_email@youremail.com"
