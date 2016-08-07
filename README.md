@@ -11,4 +11,4 @@ Github allows anyone to access and contribute to a project that you are building
 
 #What is Opensource software
 Opensource software is exactly what it sounds like software that is open for the world to see
-Opensoure software allows anyone to contribute to the development of your project 
+Opensoure software allows anyone to contribute to the development of your project
