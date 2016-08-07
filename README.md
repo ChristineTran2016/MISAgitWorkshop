@@ -1,26 +1,14 @@
-# MISAgitWorkshop
-Steps:
-1) Go to https://git-scm.com/downloads
-2) Choose a download for your system
-3) Run the installer
-# Insert Image here   ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/git.PNG)
-https://github.com/ErkCurley/MISAgitWorkshop/master/gitpics/git1.png
-4) Choose either the top or middle option 
-# Insert Image Here  ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/git2.PNG)
-5) Choose top option
-# Insert Image Here ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/git3.PNG)
-6) Choose top option
-# Insert Image Here  ![alt tag](https://raw.githubusercontent.com/ErkCurley/MISAgitWorkshop/master/gitpics/git4.PNG)
-7) Leave the boxes checked
+#MISA Github Workshop
+Welcome to Misa's github workshop :D
 
+#What is Git?
+Git is a form version control software that allows multiple people to contribute to a project
+Git is decentrailzed so there is redundancy in case of failues
 
+#What is Github?
+Github is an online storage space an toolset for Git users
+Github allows anyone to access and contribute to a project that you are building
 
-To set up your profile on git bash:
-git config --global user.name "Firstname Lastname"
-git config --global user.email "your_email@youremail.com"
-
-Next: Download the repository
-git clone https://github.com/ErkCurley/MISAgitWorkshop.git
-git init
-
-
+#What is Opensource software
+Opensource software is exactly what it sounds like software that is open for the world to see
+Opensoure software allows anyone to contribute to the development of your project 
