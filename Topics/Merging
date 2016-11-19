@@ -1,1 +1,9 @@
+Merging:
+Merging happens once you have done the following things.
+  1) Created a branch
+  2) Made your changes
+  3) Submitted a pull request
+  
+Merging allows the owner of the project to include your changes into it.
 
+Merging compares the selected branches and updates the main branch from the one that has the changes included.
