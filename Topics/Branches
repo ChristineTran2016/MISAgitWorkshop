@@ -1,5 +1,6 @@
 Branches:
-
 Branches are coppies of the code where you want to add changes.
+
 If you are working on a new feature you might want to make a feature branch that tracks those changes.
+
 You can have multiple branches that all track different changes and features.
