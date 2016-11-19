@@ -1,1 +1,6 @@
+Pull requests:
+Pull requests are made when you have finished your project and want to move your code into the main project.
 
+When making a pull request you first select your branch and then the one you want to merge the changes into.
+
+Pull requests do not have to be with the branch you initially forked from however it usually is the one you merge with.
