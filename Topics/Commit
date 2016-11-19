@@ -1,1 +1,10 @@
+Commit:
+A commit is the most basic form of submitting your changes.
 
+Once you have made a few changes you can commit them.
+
+A commit can be as big or small as you'd like.
+
+Good practice is to commit often so you can restore your changes and track your incrimental changes.
+
+Commits can be named to help identify what has been added.
